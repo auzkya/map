@@ -1,5 +1,5 @@
 {
-    "places": [
+    "posts": [
       {
         "id": 1,
         "autor": "adam",
@@ -30,11 +30,5 @@
         "lavicka":true,
         "likes": 25
       }
-    ],
-    "empty":
-      {
-        "id":1,
-        "test": "test1"
-      }
-    
-  }
+    ]    
+}

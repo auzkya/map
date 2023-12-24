@@ -1,20 +1,11 @@
 {
-    "places": [
-      {
-        "id": 1,
-        "autor": "adam",
-        "nazev": "Vláčky",
-        "popis": "moc pěkný!",
-        "coordinates": [-77.038659, 38.931567],
-        "vyhlidka":true,
-        "lavicka":false,
-        "likes": 25
-      }
-    ],
-    "empty":
-      {
-        "id":1,
-        "test": "test1"
-      }
-    
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
+}

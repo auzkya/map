@@ -9,26 +9,6 @@
         "vyhlidka":true,
         "lavicka":false,
         "likes": 25
-      },
-      {
-        "id": 2,
-        "autor": "adam2",
-        "nazev": "Vláčky2",
-        "popis": "moc pěkný!2",
-        "coordinates": [-75.038659, 39.931567],
-        "vyhlidka":false,
-        "lavicka":false,
-        "likes": 25
-      },
-      {
-        "id": 3,
-        "autor": "adam3",
-        "nazev": "Vláčky3",
-        "popis": "moc pěkný!3",
-        "coordinates": [-75.038659, 36.931567],
-        "vyhlidka":true,
-        "lavicka":true,
-        "likes": 25
       }
     ],
     "empty":
